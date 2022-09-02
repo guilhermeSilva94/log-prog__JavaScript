@@ -1,0 +1,1 @@
+alert("Isso sim é um programa! Primeira instrução JavaScript que aprendi");
